@@ -1,18 +1,27 @@
-## 任务
+## Background
 
-完成两方协议的通信测试封装
+It is a common thing to simulate a communication scenario between two-part for some protocols in MPC or other fields which covers two parts participating in calculation. The ubiquitous solution is to build the implementation step by step in one program and  ignore the communication  deliberately in order to prove the correctness efficiently. To tell the true, this method is opportunistic but necessary when the time is pressed. However, when we go further and want to measure the performance of communication in the protocol, it is untoward indeed. Could we achieve this demand with the minimal code refactoring?
 
-* 两方建立连接，非CS架构，而是双方均进行计算处理
-* 使用心跳机制进行连接处理测试
-* 计算简单加法协议
-* 完成加密比较测试
+I take a crack at encapsulating the socket and other else to provide the simplified operation to transform your pseudo-interaction software into a real one. What's more, it provides some functions to test the performance of communication as well.
 
-测试内容
+Of course, this is the prototype system. I am very happy  to accept your suggestions for more functions indeed.
 
-* 总通信量大小显示
-* 总通信时间，即通讯延迟
 
-拓展
 
-* 进一步完成封装，方便不同协议使用
-* 多方通信测试平台
+## Project Structure
+
+
+
+## Preparation
+
+> Some knowledge used in this project
+
+* C++
+* make
+* Linux
+* (GMP Labrary)
+
+## Use
+
+## Example
+

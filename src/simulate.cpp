@@ -62,7 +62,7 @@ void simulate(int num,int capacity)
 int main(){
 
 // A demo can help test the correctness of your protocol, where we ignore the real communication process.
-simulate(3,1024);
+    simulate(3,1024);
 
 }
 

@@ -115,6 +115,8 @@ cd bin
 
 ![image-20221230153849082](https://pic-1306483575.cos.ap-nanjing.myqcloud.com/images/image-20221230153849082.png)
 
-![image-20221230154045721](https://pic-1306483575.cos.ap-nanjing.myqcloud.com/images/image-20221230154045721.png)
+![image-20221230154435185](https://pic-1306483575.cos.ap-nanjing.myqcloud.com/images/image-20221230154435185.png)
+
+![image-20221230154502116](https://pic-1306483575.cos.ap-nanjing.myqcloud.com/images/image-20221230154502116.png)
 
 ![image-20221230154124118](https://pic-1306483575.cos.ap-nanjing.myqcloud.com/images/image-20221230154124118.png)

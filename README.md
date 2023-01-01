@@ -46,7 +46,7 @@ Add your specific protocol into `source/ClientDetail` and `source/ServerDetail` 
 Keep the naming format of the function to avoid problems, please.
 
 ```C++
-	char* ClientTest::process1(char *strBuffer){
+    char* ClientTest::process1(char *strBuffer){
 
         // PROCESS ONE ...
     }
